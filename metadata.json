@@ -1,0 +1,8 @@
+{
+  "name": "DropGig Large File Share",
+  "description": "High-performance file sharing platform supporting 1GB+ uploads with chunked streaming, custom domain links, pause/resume, and instant sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
